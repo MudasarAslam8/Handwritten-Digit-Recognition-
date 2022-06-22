@@ -10,9 +10,9 @@ Handwritten Digit Recognition Hand writing recognition of characters has been ar
 ![image](https://user-images.githubusercontent.com/94278051/175071633-371b8133-8e5a-4e57-9e2d-f4142fbaefa6.png)
 
 # Objective:
-•	to convert handwritten digits into machine readable formats.
-•	use pattern matching to convert handwritten letters into corresponding computer text or commands in real time.
-•	to visualize artificial neural network.
+1. to convert handwritten digits into machine readable formats.
+2. use pattern matching to convert handwritten letters into corresponding computer text or commands in real time.
+3. to visualize artificial neural network.
 # Methodology:
 Our proposed CNN is introduced to recognize four arithmetic operations. Figure is the general flow chart of implementing CNN in handwritten numeral recognition. To complete the automatic check of the mathematical assignment, it is necessary to draw a digit first, and then correct the skew images from the photos. Then, CNN is used to recognize the characters in the images, and finally, the recognized results are compared with the right answers.
 
