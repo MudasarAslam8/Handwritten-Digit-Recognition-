@@ -25,12 +25,12 @@ Our proposed CNN is introduced to recognize four arithmetic operations. Figure i
 # Datasets Details: 
 The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset. It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively. It is a widely used and deeply understood dataset and, for the most part, is “solved.” Top-performing models are deep learning convolutional neural networks that achieve a classification accuracy of above 99%, with an error rate between 0.4 %and 0.2% on the hold out test dataset. Handwritten character recognition is an extensive exploration area that formerly contains detailed ways of perpetration which include major literacy datasets, popular algorithms, features scaling and point birth styles. MNIST DATASET(Modified National Institute of Norms and Technology database) is the subset of the NIST dataset which is a combination of two of NIST’s databases Special.  Database 1 and Special Database 3. Special Database 1 and Special Database 3 correspond of integers written by high academy scholars and workers of the United States Census Bureau.  independently. MNIST contains a aggregate of handwritten. number images (- training set and- test set) in.  28x28 pixel bounding box andanti-aliased. All these images have corresponding Y values which apprises what the number
 # Implementation Steps:
-•	Import the libraries and load the dataset
-•	Preprocess the data
-•	Create the model
-•	Train the model
-•	Evaluate the model
-•	Create GUI to predict digits
+1. Import the libraries and load the dataset
+2. Preprocess the data
+3. Create the model
+4. Train the model
+5. Evaluate the model
+6. Create GUI to predict digits
 
 ![image](https://user-images.githubusercontent.com/94278051/175072135-70a6e2db-2875-46fd-80b6-5a0b7f80b210.png)
 ![image](https://user-images.githubusercontent.com/94278051/175072145-a4a74374-d8b7-4553-a71a-ffe467bc6fcf.png)
