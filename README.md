@@ -27,6 +27,7 @@ The MNIST dataset is an acronym that stands for the Modified National Institute 
 •	Train the model
 •	Evaluate the model
 •	Create GUI to predict digits
+
 ![image](https://user-images.githubusercontent.com/94278051/175072135-70a6e2db-2875-46fd-80b6-5a0b7f80b210.png)
 ![image](https://user-images.githubusercontent.com/94278051/175072145-a4a74374-d8b7-4553-a71a-ffe467bc6fcf.png)
 ![image](https://user-images.githubusercontent.com/94278051/175072160-f91218a4-383f-4280-be00-b4f0d6388514.png)
